@@ -5,9 +5,13 @@ You can comment on movies on this platform, which enriches everyone's movie expe
 You can rate and interact with other moviegoers while discovering interesting statistics.
 ## Features
 As an user:
+
 You can see popular movies, comment on movies, rate movies, and even create a movie list.
+
 As a director:
+
 You can see popular movies and even make a movie yourself
+
 ## Usage
 
 1.Clone or download the repository to your local machine.
