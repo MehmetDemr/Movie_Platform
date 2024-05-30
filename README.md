@@ -32,6 +32,7 @@ CREATE TABLE [dbo].[Filmler] (
     PRIMARY KEY CLUSTERED ([Id] ASC),
     FOREIGN KEY ([YoneticiId]) REFERENCES [dbo].[Yoneticiler] ([y_id])
 );
+
 CREATE TABLE [dbo].[Filmplaylist] (
     [Id]            INT            IDENTITY (1, 1) NOT NULL,
     [FilmAdi]       NVARCHAR (100) NULL,
