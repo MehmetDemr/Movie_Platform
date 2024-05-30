@@ -19,7 +19,7 @@ You can see popular movies and even make a movie yourself
 7.Perform various tasks such as querying data, creating or modifying database objects, and managing database connections directly from Visual Studio.
 8.After making any changes, build and run the project to apply the changes to your application.
 
-##Required Tables:
+## Required Tables:
 CREATE TABLE [dbo].[Filmler] (
     [Id]                 INT          IDENTITY (1, 1) NOT NULL,
     [FilmAdi]            VARCHAR (30) NOT NULL,
