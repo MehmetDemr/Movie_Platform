@@ -11,12 +11,19 @@ You can see popular movies and even make a movie yourself
 ## Usage
 
 1.Clone or download the repository to your local machine.
+
 2.Open the project in Visual Studio or your preferred C# development environment.
+
 3.Once the project is loaded, locate the SQL Server Object Explorer in Visual Studio.
+
 4.Connect to your SQL Server instance using the SQL Server Object Explorer.
+
 5.Navigate to the database you want to work with.
+
 6.Explore the database schema, tables, views, stored procedures, and other objects using the SQL Server Object Explorer.
+
 7.Perform various tasks such as querying data, creating or modifying database objects, and managing database connections directly from Visual Studio.
+
 8.After making any changes, build and run the project to apply the changes to your application.
 
 ## Required Tables:
