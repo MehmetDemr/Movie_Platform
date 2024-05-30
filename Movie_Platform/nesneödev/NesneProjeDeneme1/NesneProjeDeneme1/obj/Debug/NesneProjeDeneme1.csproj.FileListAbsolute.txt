@@ -1,0 +1,75 @@
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.exe.config
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.exe
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.pdb
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Form1.resources
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Properties.Resources.resources
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.exe
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.pdb
+C:\Users\Mehmet Demir\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.exe.config
+C:\Users\Mehmet Demir\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.exe
+C:\Users\Mehmet Demir\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.pdb
+C:\Users\Mehmet Demir\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.AssemblyReference.cache
+C:\Users\Mehmet Demir\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Form1.resources
+C:\Users\Mehmet Demir\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Properties.Resources.resources
+C:\Users\Mehmet Demir\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.GenerateResource.cache
+C:\Users\Mehmet Demir\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Demir\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.exe
+C:\Users\Mehmet Demir\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.pdb
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.exe.config
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.exe
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.pdb
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.AssemblyReference.cache
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Form1.resources
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Properties.Resources.resources
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.GenerateResource.cache
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.exe
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.pdb
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Form2.resources
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.exe.config
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.exe
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.pdb
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Form1.resources
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Form2.resources
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Properties.Resources.resources
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.exe
+C:\Users\ahmet\Desktop\NesneProjeDeneme1\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.pdb
+C:\Users\ahmet\Desktop\deneme\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.exe.config
+C:\Users\ahmet\Desktop\deneme\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.exe
+C:\Users\ahmet\Desktop\deneme\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.pdb
+C:\Users\ahmet\Desktop\deneme\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\deneme\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Form1.resources
+C:\Users\ahmet\Desktop\deneme\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Form2.resources
+C:\Users\ahmet\Desktop\deneme\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Properties.Resources.resources
+C:\Users\ahmet\Desktop\deneme\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\deneme\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\deneme\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.exe
+C:\Users\ahmet\Desktop\deneme\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.pdb
+C:\Users\Mehmet Demir\Desktop\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.AssemblyReference.cache
+C:\Users\Mehmet Demir\Desktop\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.exe
+C:\Users\Mehmet Demir\Desktop\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.pdb
+C:\Users\Mehmet Demir\Desktop\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.exe.config
+C:\Users\Mehmet Demir\Desktop\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.exe
+C:\Users\Mehmet Demir\Desktop\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.pdb
+C:\Users\Mehmet Demir\Desktop\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Form1.resources
+C:\Users\Mehmet Demir\Desktop\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Form2.resources
+C:\Users\Mehmet Demir\Desktop\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Properties.Resources.resources
+C:\Users\Mehmet Demir\Desktop\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.GenerateResource.cache
+C:\Users\Mehmet Demir\Desktop\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.exe.config
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.exe
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\bin\Debug\NesneProjeDeneme1.pdb
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.AssemblyReference.cache
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Form1.resources
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Form2.resources
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.Properties.Resources.resources
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.GenerateResource.cache
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.exe
+C:\Users\Mehmet Demir\Desktop\Masaüstü\Bakırçay\Ödev\nesneödev\nesneödev\NesneProjeDeneme1\NesneProjeDeneme1\obj\Debug\NesneProjeDeneme1.pdb
